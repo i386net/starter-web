@@ -3,12 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
 	Vlad Dracula vlad@gmail.com
 
 # THANKS
 
-    <name>
+    Thanks to everybody!
 
 # TECHNOLOGY COLOPHON
 
